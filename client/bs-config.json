@@ -1,0 +1,6 @@
+{
+  "browser" : "brave",
+  "server": {
+    "baseDir": ["./src","./"]
+  }
+}
