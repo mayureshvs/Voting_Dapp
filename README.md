@@ -176,7 +176,8 @@ Make Sure Node.JS is installed in your system. Then follow below commands to ins
       host: "127.0.0.1",     // Localhost (default: none)
       port: 8545,            // Standard Ethereum port (default: none)
       network_id: "*",       // Any network (default: none)
-      },
+      }
+  }
   ```
 * Time to deploy the smart contract. We can deploy our Election contract on newly hosted blockchain using below command
   ```sh
